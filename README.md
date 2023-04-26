@@ -20,8 +20,10 @@
 </div>
   <br>
   <div style="margin-top: 16px"> 
-  <a href="https://www.instagram.com/danilobezerra.io/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.instagram.com/danilobezerra.io/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/danilo-bezerra-da-silva-araujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://danilobezerra.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge" target="_blank"></a> 
+    
  
 
   
